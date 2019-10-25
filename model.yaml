@@ -8,6 +8,9 @@
           type: string
           format: url
           example: 'https://www.acme-corp.com'
+        description:
+          type: string
+          example: 'text'
         phone:
           type: string
           example: 408-867-5309
