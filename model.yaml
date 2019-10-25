@@ -10,7 +10,7 @@
           example: 'https://www.acme-corp.com'
         description:
           type: string
-          example: 'text'
+          example: some text
         phone:
           type: string
           example: 408-867-5309
