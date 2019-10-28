@@ -125,7 +125,7 @@
           },
           "name" : {
             "type" : "string",
-            "example" : "Widget Adapter (Test GitHub push)"
+            "example" : "Widget Adapter (Test GitHub push 234)"
           },
           "releaseDate" : {
             "type" : "string",
