@@ -133,7 +133,7 @@
             "example" : "2016-08-29T09:12:33.001Z"
           },
           "manufacturer" : {
-            "$ref" : "https://raw.githubusercontent.com/dirk-iwe/test/master/model.yaml"
+            "$ref" : "https://raw.githubusercontent.com/dirk-iwe/test/master/model.yaml?token=fd2eb9524ad7420038546dbcb9c65ee374392354"
           }
         }
       }
